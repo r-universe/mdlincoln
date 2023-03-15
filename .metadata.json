@@ -1,14 +1,14 @@
 [
   {
+    "package": "fuzzr",
+    "oncran": true
+  },
+  {
     "package": "clipr",
     "oncran": true
   },
   {
     "package": "europop",
-    "oncran": true
-  },
-  {
-    "package": "fuzzr",
     "oncran": true
   },
   {
