@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "fuzzr"]
-	path = fuzzr
-	url = https://github.com/mdlincoln/fuzzr
-	shallow = true
-	registered = true
 [submodule "clipr"]
 	path = clipr
 	url = https://github.com/mdlincoln/clipr
@@ -16,6 +11,11 @@
 [submodule "europop"]
 	path = europop
 	url = https://github.com/mdlincoln/europop
+	shallow = true
+	registered = true
+[submodule "fuzzr"]
+	path = fuzzr
+	url = https://github.com/mdlincoln/fuzzr
 	shallow = true
 	registered = true
 [submodule "hypothesisr"]
